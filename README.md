@@ -1,2 +1,2 @@
-# Synapsis
-ImageJ Script for automatic quantification of synapsis in confocal microscopy images
+# Synapse_Counter
+ImageJ Script for automatic quantification of synapses in confocal microscopy images
